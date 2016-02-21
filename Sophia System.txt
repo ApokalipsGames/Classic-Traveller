@@ -1,0 +1,33 @@
+Sophia System
+
+Orbit	UPP
+0	Sophia-1: Large GG
+    1   Ring
+    3   Ring
+    4   Y200000
+    7   Y404000
+    8   Y200000
+    8   Y200000
+    9   Y501000
+   40   Y400000
+   40   Y20011C
+   45   YS00000
+   50   Y100000
+
+1	Sophia-2: Y110000
+   35	YS00000
+
+2	Sophia-3: B259889-9
+    8   YS00000
+   20   YS00149-9 Mil
+
+3	Sophia-3: G30153C
+
+4	Sophia-5: Small GG
+    1	Ring
+    3   Ring
+    3   Y300000
+    8   Y100000
+    9   Y530000
+   25   Y200000
+   35   Y534469-8 Res 
