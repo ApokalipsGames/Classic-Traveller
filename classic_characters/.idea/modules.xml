@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/classic_characters.iml" filepath="$PROJECT_DIR$/.idea/classic_characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../systems_and_worlds/.idea/systems_and_worlds.iml" filepath="$PROJECT_DIR$/../systems_and_worlds/.idea/systems_and_worlds.iml" />
     </modules>
   </component>
 </project>
