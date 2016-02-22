@@ -15,7 +15,7 @@ import random
 def intro():
     print("Sector Generator 1.0")
     print("A script for generating random sectors in Classic Traveller")
-    print("Because all that dice rolling is tedious.")
+    print("- For when all that dice rolling is tedious.")
     print("\nCT defined the interstellar space in terms of sectors each")
     print("divided into 16 subsectors, each of which contained 8 columns")
     print("of 10 hexes representing 1 parsec (about 1.3 LY) of distance.\n")
