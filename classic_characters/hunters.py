@@ -3,7 +3,7 @@
 
 import random
 
-# attributes
+# attributes - Psg = Passage
 service = "Hunter"
 muster_out_benefits = ["Low Psg", "Mid Psg", "High Psg",
                        "Weapon", "Weapon", "Safari Ship"]
